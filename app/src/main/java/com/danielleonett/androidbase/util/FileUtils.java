@@ -6,7 +6,7 @@ import android.net.Uri;
 import android.webkit.MimeTypeMap;
 
 /**
- * Created by danielleonett on 3/19/18.
+ * @author daniel.leonett
  */
 
 public class FileUtils {

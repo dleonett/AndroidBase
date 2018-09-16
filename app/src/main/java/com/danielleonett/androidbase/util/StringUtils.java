@@ -6,6 +6,10 @@ import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
 import java.util.List;
 
+/**
+ * @author daniel.leonett
+ */
+
 public class StringUtils {
 
     public static String toString(Object object) {

@@ -8,6 +8,10 @@ import java.util.List;
 
 import butterknife.ButterKnife;
 
+/**
+ * @author daniel.leonett
+ */
+
 public abstract class BaseFiltrableRecyclerAdapter<Item, Holder extends BaseFiltrableRecyclerAdapter.BaseViewHolder<Item>>
         extends RecyclerView.Adapter<Holder> {
 

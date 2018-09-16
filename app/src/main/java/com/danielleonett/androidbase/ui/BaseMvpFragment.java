@@ -19,6 +19,10 @@ import com.danielleonett.androidbase.R;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
+/**
+ * @author daniel.leonett
+ */
+
 public abstract class BaseMvpFragment extends Fragment implements BaseMvpView {
 
     // Constants

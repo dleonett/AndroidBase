@@ -21,6 +21,10 @@ import com.danielleonett.androidbase.R;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author daniel.leonett
+ */
+
 public abstract class BaseMvpActivity extends AppCompatActivity implements
         BaseMvpView {
 

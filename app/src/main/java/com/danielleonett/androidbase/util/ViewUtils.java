@@ -6,8 +6,9 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.ScrollView;
 
 /**
- * Created by user on 07/06/2016.
+ * @author daniel.leonett
  */
+
 public class ViewUtils {
 
     public static void requestFocus(Context context, View view) {

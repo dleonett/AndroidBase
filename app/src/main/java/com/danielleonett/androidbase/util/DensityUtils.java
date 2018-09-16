@@ -8,6 +8,10 @@ import android.util.DisplayMetrics;
 import android.util.TypedValue;
 import android.view.Display;
 
+/**
+ * @author daniel.leonett
+ */
+
 public class DensityUtils {
 
     public static int spToPx(int sp) {

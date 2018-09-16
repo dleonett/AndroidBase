@@ -3,6 +3,10 @@ package com.danielleonett.androidbase.util;
 import android.content.Context;
 import android.os.Vibrator;
 
+/**
+ * @author daniel.leonett
+ */
+
 public class VibrationUtils {
 
     public static void vibrate(Context context, int milliseconds) {

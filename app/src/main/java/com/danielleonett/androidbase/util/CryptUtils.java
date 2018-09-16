@@ -6,7 +6,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 /**
- * Created by Leonett Arias on 12/8/2017.
+ * @author daniel.leonett
  */
 
 public class CryptUtils {

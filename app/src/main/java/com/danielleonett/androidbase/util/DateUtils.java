@@ -5,6 +5,10 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
+/**
+ * @author daniel.leonett
+ */
+
 public class DateUtils {
 
     private static final String TAG = DateUtils.class.getSimpleName();
