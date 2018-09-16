@@ -1,3 +1,3 @@
 # AndroidBase
 
-Base boilerplate code for creating Android apps
+Base boilerplate code to create Android apps
